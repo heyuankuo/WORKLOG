@@ -1,0 +1,28 @@
+2017-08-04 星期五
+
+TARG:
+10点之前测试完ATL 聚合   11点搞定
+参考链接 http://blog.csdn.net/frankiewang008/article/details/30070165			√
+
+ATL添加接口
+参考链接http://blog.sina.com.cn/s/blog_4901f88e0101bjri.html     √
+
+VC++ 时间戳
+
+
+TIPS:
+///// 
+////
+Win64 中 查看32注册表中的信息
+%systemroot%\syswow64\regedit -m
+参考链接 http://blog.sina.com.cn/s/blog_8e9a79230101a6kz.html					
+
+git 拉取远程分支并创建本地分支
+git checkout -b 本地分支名称 源/远程分支名称
+参考链接http://blog.csdn.net/tterminator/article/details/52225720
+
+git 查看配置
+参考链接http://www.cnblogs.com/merray/p/6006411.html
+
+git 远程仓库地址：
+git@60.205.215.87:mahjong/server.git 

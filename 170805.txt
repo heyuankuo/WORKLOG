@@ -1,0 +1,31 @@
+2017-08-05 星期六
+
+TARG:
+	模拟CTableFrameSink类型 11 点之前
+	
+	添加IServerUserItem
+	
+	IDL void* 类型的表示方法
+	参考链接：http://www.xuebuyuan.com/867086.html
+	
+	安装adobe acrobat
+	
+	安装workstation	
+	下载链接http://www.cr173.com/soft/68480.html
+	
+	安装ubuntu
+	下载镜像地址：https://www.ubuntu.com/download/desktop/thank-you?country=CN&version=16.04.3&architecture=amd64
+	
+	下载编译ffmpeg
+	安装samba服务
+	编写视频编码H.264
+
+TIPS:
+	git fetch 与 git pull 的差别
+	参考链接http://www.cnblogs.com/ToDoToTry/p/4095626.html
+	
+	枚举类型自带static 修饰
+	
+	long long 类型64位
+	
+	在IDL描述文件中 long long 对应LONGLONG

@@ -1,0 +1,11 @@
+2017-08-06 星期日
+
+TARG:
+linux 安装ssh
+参考连接：http://www.linuxidc.com/Linux/2013-07/87368.htm
+
+linux 命令： 
+	ps -e | grep ssh
+
+TIPS:
+	

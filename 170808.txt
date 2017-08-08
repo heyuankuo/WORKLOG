@@ -30,3 +30,6 @@ SecureCRT 乱码
 
 DS
 http://blog.csdn.net/klamen/article/details/54972081
+http://blog.csdn.net/klamen/article/details/54947111
+
+42.51.41.14

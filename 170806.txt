@@ -4,8 +4,16 @@ TARG:
 linux 安装ssh
 参考连接：http://www.linuxidc.com/Linux/2013-07/87368.htm
 
+Ubuntu 安装ffmpeg
+参考链接http://blog.csdn.net/abcsunl/article/details/70145078
+
 linux 命令： 
 	ps -e | grep ssh
+	
+H264实时编码
+windows下 参考链接：http://www.cnblogs.com/haibindev/archive/2011/11/10/2244442.html
+C++实现RTMP协议发送H.264编码及AAC编码的音视频 ：http://www.cnblogs.com/haibindev/archive/2011/12/29/2305712.html
 
+Ubuntu 安装Samba 服务器
 TIPS:
 	

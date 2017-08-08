@@ -27,5 +27,5 @@ TIPS:
 	
 	在IDL描述文件中 long long 对应LONGLONG
 	
-	IDL void* 类型的表示方法
+	IDL void* 类型的表示方法[local]
 	参考链接：http://www.xuebuyuan.com/867086.html

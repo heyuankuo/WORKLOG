@@ -1,0 +1,32 @@
+2017-08-08 星期二
+
+TARG:
+CGameServiceManager模拟	
+
+TIPS:
+
+模块间传递的数据类型最好用简单的数据类型或者C标准的结构体，这样有利于模块的重用
+
+/var/lib/dpkg/lock 解决方法
+sudo rm /var/lib/dpkg/lock
+sudo rm /var/cache/apt/archive/lock
+
+Atl(COM)编程如何在idl文件中使用宏定义（如#ifndefine XXX）cpp_quote
+参考链接http://blog.csdn.net/lis2012/article/details/41866547
+
+结构体可以直接赋值:
+C++ 测试可以直接赋值,也可以在函数的输入参数列表中使用引用参数返回值
+C 测试可以直接赋值
+
+makefile中：
+	$@ 代表目标
+	$^ 代表所有的依赖对象 
+	$(OBJS:.o=.c) 替换
+	$< 代表第一个依赖对象 
+
+	
+SecureCRT 乱码
+会话选项->外观->字体->编码 set UTF-8
+
+DS
+http://blog.csdn.net/klamen/article/details/54972081

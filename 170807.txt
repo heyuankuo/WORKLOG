@@ -2,6 +2,46 @@
 
 TARG:
 
+挂起
+{
 
+写计划表：						√
 
+	雷州麻将
+	修改配置不确定问题：				
+	Count=15
+	;雷州麻将
+	[MjRule0]
+	bByte=0;规则编号
+	byHandCardNum=13;各家手牌数，庄家+1
+	byGamePassType=16;流局剩牌留下	
+	byGamePassNum=16;流局牌数
+	
+	检查吃牌CanChi函数
+	吃牌函数引用在CTableFrameSink::CheckAction中
+	
+	检查掷骰子
+	CTableFrameSink::OnEventStartRoll()
+	
+	发牌
+	CTableFrameSink::OnEventStartRoll()
+	
+	花牌
+	一次出牌，花牌是否可以多次换牌
+	
+	胡牌
+	倍数结算问题
+
+}
+
+基本过程为
+	配置牌的花色张数；
+	随机排列牌的顺序；
+	掷骰子&发牌；
+	检测可以出的牌
+	
+	1. 首先搞清楚配置文件怎么用
+	2. 使用回调
+	
 TIPS:
+http://www.wxsdsoft.com 代码托管仓库

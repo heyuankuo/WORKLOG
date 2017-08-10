@@ -1,0 +1,19 @@
+2017-08-09 星期三
+
+TARG:
+创建GIT仓库
+
+
+TIPS:
+
+git ReadMe 中插入图片
+http://blog.chinaunix.net/uid-26495963-id-3367377.html
+
+
+git clone http://git.videolan.org/git/x264.git
+http://www.videolan.org/developers/x264.html
+
+git 过滤文件命令
+echo *.xx ./gitignore
+
+98BC   wxsd123456    wifi可以连这个

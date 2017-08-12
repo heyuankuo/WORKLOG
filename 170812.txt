@@ -1,0 +1,40 @@
+2017-08-12 星期六
+
+TARG:
+	如何通过枚举创建组件
+	安装Graphedt
+	
+	乱序牌列数组
+	拷贝一份
+	随机挑选一个放入原数组	
+	
+	使用配置文件配置纸牌
+
+TIPS:
+	IID_XXX,(void **)&m_pWICFactory
+	IID_PPV_ARGS(&m_pWICFactory)  
+	
+
+// 引入DOM支持	
+#import "msxml6.dll"
+using namespace MSXML2;
+
+DOM 节点不存在会返回NULL
+
+编写 Filter
+http://blog.csdn.net/spacecmd/article/details/1572122
+
+小端模式 低字节在第地址 （ PC通常为小端模式）
+
+关于printf("0x%08x\n",&v1)
+%08x是指按16进制以小写符号输出最小为8位的v1的地址。
+
+%x代表16进制输出的字母符号为小写
+08指定数据的最小输出位数为8，若不够8位，则补零，若大于8位，则按照原位数输出；
+0x会输出，也就是最后会输出0xXXXXXXXX一些数，0x前缀表示是十六进制；
+\n为换行符；
+&v1表示要输出的变量v1的地址。
+
+swprintf_s() 会锁定指定长度的 内存地址，要特别小心长度设置
+
+

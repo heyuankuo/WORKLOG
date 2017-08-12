@@ -1,0 +1,33 @@
+2017-08-11 星期五
+
+TARG:
+添加一个支持相同接口的组件
+配置牌花色
+
+当双方都是数字牌时 会不会比较 10 的大小和点数
+
+初始化牌
+
+TIPS:
+
+
+//////////////////////////////////////////////////////////////////////////
+//宏定义
+
+#define MAX_COUNT					5									//最大数目
+
+//数值掩码
+#define	LOGIC_MASK_COLOR			0xF0								//花色掩码
+#define	LOGIC_MASK_VALUE			0x0F								//数值掩码
+
+//扑克类型
+#define OX_VALUE0					0									//混合牌型
+#define OX_THREE_SAME				102									//三条牌型
+#define OX_FOUR_SAME				103									//四条牌型
+#define OX_FOURKING					104									//天王牌型
+#define OX_FIVEKING					105									//天王牌型
+
+git commit 规范
+【简要描述】
+【详细描述】
+【修 改 人】
